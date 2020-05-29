@@ -27,6 +27,11 @@
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 
+
+## :memo: LICENÇA
+Projeto sobre licença MIT. Mais informações em [LICENÇA](https://github.com/gabriel-antero/generator-QRCode/blob/master/LICENSE).
+
+
 ---
 
 Por [Gabriel Antero](https://github.com/gabriel-antero).
