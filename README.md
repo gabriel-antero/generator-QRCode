@@ -1,6 +1,6 @@
 <h1 align="center">
   <img width="200" 
-  alt="Calculator" src="https://image.flaticon.com/icons/svg/2878/2878623.svg"
+  alt="Icon QR Code" src="https://image.flaticon.com/icons/svg/2878/2878623.svg"
   style="max-width:10%;" >
 </h1>
 
